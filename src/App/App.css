@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.starshipDiv {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  
+}
+
+.starships {
+  background-color: #174552;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration-line: none;
+  margin: 10px;
+  border-radius: 8px;
+  padding: 20px;
+}
